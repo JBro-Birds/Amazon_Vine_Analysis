@@ -11,7 +11,7 @@ An initial step for the PySpark analysis was filtering the dataset first by retr
 
 ![filter_total_votes_20](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/filter_total_votes_20.png)
 
-
+![filter_helpful_50percent](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/filter_helpful_50percent.png)
 
 
 * afadsf
