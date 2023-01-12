@@ -29,3 +29,4 @@ An initial step for the PySpark analysis was filtering the dataset first by retr
 ![percent_5star_unpaid_reviews](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/percent_5star_unpaid_reviews.png)
 
 ## Summary
+For the outdoor product category there is not positive bias for reviews made by members of the Vine program.  This is evident by comparing the percent of 5 star reviews by Vine members vs. reviews by non-Vine members which is almost identical; 52.3% for Vine members and 52.7% for non-Vine members.  
