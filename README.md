@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview of Project
-As a data expert I've been teamed with an account manager at BigMarket to analyze big data for the client SellBy.  Our initial work was extremely successful and we've now been tasked with a large project of analyzing Amazon reviews written by members of the paid Amazon Vine program.
+As a data expert I've been teamed with an account manager at BigMarket to analyze big data for the client SellBy.  Since our initial work was extremely successful we've been tasked with a second large project that involves analyzing Amazon reviews written by members of the paid Amazon Vine program.
 
 ### Purpose
 The purpose of the project is to determine if there is any bias toward favorable reviews from Vine members in a Amazon review dataset for outdoor products.  PySpark will be used to perform ETL and the data will be loaded into pgAdmin tables.  Next, PySpark will be used to perform calculations and analysis to determine if there is bias or not. 
@@ -19,9 +19,13 @@ An initial step for the PySpark analysis was filtering the dataset first by retr
 ![num_unpaid_reviews](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/num_unpaid_reviews.png)
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 ![num_5star_paid_reviews](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/num_5star_paid_reviews.png)
 ![num_5star_unpaid_reviews](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/num_5star_unpaid_reviews.png)
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
 ![percent_5star_paid_reviews](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/percent_5star_paid_reviews.png)
 ![percent_5star_unpaid_reviews](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/percent_5star_unpaid_reviews.png)
+
+## Summary
