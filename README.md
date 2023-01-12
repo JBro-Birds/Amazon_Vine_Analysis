@@ -13,5 +13,14 @@ An initial step for the PySpark analysis was filtering the dataset first by retr
 
 ![filter_helpful_50percent](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/filter_helpful_50percent.png)
 
+* How many Vine reviews and non-Vine reviews were there?
+![filter_vine_yes](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/filter_vine_yes.png)
+![filter_vine_no](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/filter_vine_no.png)
 
-* afadsf
+* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+![num_5star_paid_reviews](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/num_5star_paid_reviews.png)
+![num_5star_unpaid_reviews](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/num_5star_unpaid_reviews.png)
+
+* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+![percent_5star_paid_reviews](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/percent_5star_paid_reviews.png)
+![percent_5star_unpaid_reviews](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/percent_5star_unpaid_reviews.png)
