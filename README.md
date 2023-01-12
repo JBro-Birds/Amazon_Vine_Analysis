@@ -9,6 +9,8 @@ The purpose of the project is to determine if there is any bias toward favorable
 ## Results
 An initial step for the PySpark analysis is filtering the dataset first by retrieving all rows where the total_votes count is equal to or greater than 20, and second by taking the first filtered set and filtering to retrieve all rows where the number of helpful_votes divided by total_votes is equal to or greater than 50%.
 
+![lot_summary](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/lot_summary.png)
+
 
 
 
