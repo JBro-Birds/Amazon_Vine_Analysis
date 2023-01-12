@@ -14,6 +14,7 @@ An initial step for the PySpark analysis was filtering the dataset first by retr
 ![filter_helpful_50percent](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/filter_helpful_50percent.png)
 
 * How many Vine reviews and non-Vine reviews were there?
+
 ![num_paid_reviews](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/num_paid_reviews.png)
 ![num_unpaid_reviews](https://raw.githubusercontent.com/JBro-Birds/Amazon_Vine_Analysis/master/support_images_readme/num_unpaid_reviews.png)
 
