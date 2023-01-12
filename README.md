@@ -5,3 +5,6 @@ As a data expert I've been teamed with an account manager at BigMarket to analyz
 
 ### Purpose
 The purpose of the project is to determine if there is any bias toward favorable reviews from Vine members in a Amazon review dataset for outdoor products.  PySpark will be used to perform ETL and the data will be loaded into pgAdmin tables.  Next, PySpark will be used to perform calculations and analysis to determine if there is bias or not.
+
+## Results
+* afadsf
